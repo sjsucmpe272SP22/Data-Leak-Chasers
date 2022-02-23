@@ -36,7 +36,7 @@
   ###### So, when a user comments on a particular product, the sentiment analysis system analyzes the keywords in the comment to find the match with the keywords stored in the database. After analyzing the matches against the positive and negative keywords and sentiments, the system ranks a product as good, bad, and very bad. Thus, users can use this application to find out reviews on a product.
   
   #### PERSONA(S)
-  ###### 
+  ###### Sentiment analysis is an on-going process to understand what consumers think about your products or brand. Maximum possible product reviews are collected from different sources such as review sites, social media platforms, app stores, and eCommerce stores to gather user sentiment data. 
  
 
   
