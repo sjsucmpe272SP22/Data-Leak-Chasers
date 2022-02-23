@@ -5,8 +5,28 @@
  ##### 015911467 - Sai Sravani Chalasani
  ##### 015918006 - Varun Raj Badri
  ##### 015963285 - Thanuj kumar janugani
+ 
+ 
+ ## PROJECT IDEA 1 : 
+ 
+  #### TITLE : Detection and Recognition of Traffic sign using OCR and Computer vision Techniques.
   
-## PROJECT IDEA 1 : 
+  #### PROBLEM STATEMENT 
+  ###### To Detect the Road Traffic Sign using Real time OCR and Text Detection with TensorFlow, OpenCV and Tesseract.
+  
+  #### ABSTRACT
+  ###### We will take the Traffic sign image dataset and some Traffic video Sample files as a train and test Data for Input (fig 1). The detection of an object at a distant road sign was low, recognition may get affected due to the changes in contrast at night and bad weather. So, we use the deep learning techniques and Real time OCR and Text Detection with TensorFlow, OpenCV technique to find the text on the traffic sign board and displays the text. The Proposed System should detect and correctly classify the traffic Sign
+
+  #### Persona(s)
+  ###### Algorithm, we will be using Optical Character Recognition (OCR) algorithm and deep learning techniques to Detect the Traffic Signs which include then text detection on sign boards.For the detection and recognition of traffic signals the proposed algorithm primarily focus on cutting-edge technologies such as Optical Character Recognition (OCR) and Text Detection with TensorFlow, OpenCV and Tesseract. the basic work of this technique is that which is based on a quicker region-based convolutional neural network as it is possible to automatically extract the best features of a target image for object detection using deep learning. Here we are coming up with a wide range of sample images and video files of different weather condition images as input and detection will be done using code and will try to develop an Android app. The results will be achieved with minimum preprocessing and contour detection followed by text recognition using OCR technique with TensorFlow and open cv. and also detecting other symbolic signs.
+  
+  #### Data Set 
+  ###### Traffic Signs Dataset in YOLO format from kaggle
+  
+
+  
+  
+## PROJECT IDEA 3 : 
    
   #### TITLE : DATA LEAK DETECTION
  
@@ -16,6 +36,9 @@
   #### ABSTRACT 
   ###### A data distributor has given sensitive data to a set of supposedly trusted agents . Sometimes data is leaked and found in unauthorized place e.g. on the web or in somebodys laptop . Data leakage happens every day when confidential buisiness information are leaked out. When these are leaked out it leaves the company unprotected and goes outside the jurisdiction of the corporation.
  
-  #### Persona(s) : 
-   
+  #### Persona(s)
+  ###### Data leakage can be multi-million dollar mistake in many data science applications. Careful separation of training and validation data can prevent train-test contamination, and pipelines can help implement this separation. Likewise, a combination of caution, common sense, and data exploration can help identify target leakage.
+  
+  #### DATASET 
+  ###### kaggle kernels output miklgr500/leakage-detection-about-8-test-dataset -p /path/to/dest
 
