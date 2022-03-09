@@ -9,7 +9,7 @@
  
  
    
-  #### TITLE : DATA LEAK DETECTION
+  #### PROJECT TITLE : DATA LEAK DETECTION
  
   #### PROBLEM STATEMENT 
   ###### In the course of doing buisiness , sometimes sensitive data must be given to third parties. some of the data is leaked and found in an  unauthorized   place . The distributor cannot blame the agent without any evidence . This project identifies the agent who leaked the data with enough evidence . The objective of this project is to improve the probability of identifying leakages using Data Allocation Strategies across the agents and also to identify the guilty party who leaked the data by injecting "realistic but fake" data records.
