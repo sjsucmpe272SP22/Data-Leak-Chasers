@@ -38,9 +38,7 @@
    ![image](https://user-images.githubusercontent.com/91631318/166822176-32f7d571-94cc-4fef-ba88-852bc4cc4d90.png)
    
  ### DEPLOYED URL 
- 
- 
-   http://3.16.26.147/
+          http://3.16.26.147/
  
  
 
