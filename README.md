@@ -35,10 +35,10 @@
 
   ### DATABASE
   
-     https://user-images.githubusercontent.com/91631318/166822176-32f7d571-94cc-4fef-ba88-852bc4cc4d90.png
+   ![image](https://user-images.githubusercontent.com/91631318/166822176-32f7d571-94cc-4fef-ba88-852bc4cc4d90.png)
 
      
-     https://user-images.githubusercontent.com/91631318/166822039-90e44c10-0afc-483a-ab14-bc80997a8fa2.png
+   ![image](https://user-images.githubusercontent.com/91631318/166822039-90e44c10-0afc-483a-ab14-bc80997a8fa2.png)
 
    
    
