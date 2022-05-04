@@ -12,11 +12,11 @@
   #### PROJECT TITLE : DATA LEAK DETECTION
  
   #### PROBLEM STATEMENT 
-  ###### In the course of doing buisiness , sometimes sensitive data must be given to third parties. some of the data is leaked and found in an  unauthorized   place . The distributor cannot blame the agent without any evidence . This project identifies the agent who leaked the data with enough evidence . The objective of this project is to improve the probability of identifying leakages using Data Allocation Strategies across the agents and also to identify the guilty party who leaked the data by injecting "realistic but fake" data records.
+  ###### In the course of doing buisiness , sometimes sensitive data must be given to third parties. some of the data is leaked and found in an  unauthorized   place . The distributor cannot blame the agent without any evidence . This project identifies the agent who leaked the data with enough evidence .
  
   #### ABSTRACT 
-  ###### A data distributor has given sensitive data to a set of supposedly trusted agents . Sometimes data is leaked and found in unauthorized place e.g. on the web or in somebodys laptop . Data leakage happens every day when confidential buisiness information are leaked out. When these are leaked out it leaves the company unprotected and goes outside the jurisdiction of the corporation.
- 
+  ###### A data distributor has given sensitive data to a set of supposedly trusted agents (third parties). Some of the data are leaked and found in an unauthorized place (e.g., on the web or somebody's laptop). The distributor must assess the likelihood that the leaked data came from one or more agents, as opposed to having been independently gathered by other means. We propose data allocation strategies (across the agents) that improve the probability of identifying leakages. These methods do not rely on alterations of the released data (e.g., watermarks). In some cases, we can also inject “realistic but fake” data records to further improve our chances of detecting leakage and identifying the guilty party![image](https://user-images.githubusercontent.com/91631318/166820509-26ca2389-3d3d-4408-bb43-62caf9ce8dc8.png)
+
   #### Persona(s)
   ###### Data leakage can be multi-million dollar mistake in many data science applications. Careful separation of training and validation data can prevent train-test contamination, and pipelines can help implement this separation. Likewise, a combination of caution, common sense, and data exploration can help identify target leakage.
   
