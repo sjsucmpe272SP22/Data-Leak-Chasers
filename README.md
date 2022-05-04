@@ -30,7 +30,8 @@
  ###### DATABASE - MySql
  
  # SYSTEM DESIGN
-       <img width="416" alt="image" src="https://user-images.githubusercontent.com/91631318/166822989-d5f2f36b-9be9-4581-8f4c-22b258c18ea0.png">
+        ![image](https://user-images.githubusercontent.com/91631318/166823727-5c32f2ee-d7ca-4aa6-9876-e91062f679b9.png)
+
 
   ### DATABASE
   
