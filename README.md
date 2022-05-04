@@ -23,6 +23,25 @@
   
  # ARCHITECTURE DIAGRAM
    ![image](https://user-images.githubusercontent.com/91631318/164345141-9c4d8149-a666-46ff-9232-b3c0bb7c0a03.png)
+   
+ # PROJECT REQUIREMENTS
+ ###### FRONTEND - Html , Css , javascript , Bootstarp4
+ ###### BACKEND - Php 
+ ###### DATABASE - MySql
+ 
+ # SYSTEM DESIGN
+ 
+     <img width="416" alt="image" src="https://user-images.githubusercontent.com/91631318/166822039-90e44c10-0afc-483a-ab14-bc80997a8fa2.png">
+     
+  ### DATABASE
+  
+      <img width="416" alt="image" src="https://user-images.githubusercontent.com/91631318/166822176-32f7d571-94cc-4fef-ba88-852bc4cc4d90.png">
+
+     
+     <img width="416" alt="image" src="https://user-images.githubusercontent.com/91631318/166822039-90e44c10-0afc-483a-ab14-bc80997a8fa2.png">
+
+   
+   
 
   
 
