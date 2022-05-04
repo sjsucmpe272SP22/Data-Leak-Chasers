@@ -22,7 +22,7 @@
   
   
  ### ARCHITECTURE DIAGRAM
-   ![image](https://user-images.githubusercontent.com/91631318/164345141-9c4d8149-a666-46ff-9232-b3c0bb7c0a03.png)
+   #### ![image](https://user-images.githubusercontent.com/91631318/164345141-9c4d8149-a666-46ff-9232-b3c0bb7c0a03.png)
    
  ### PROJECT REQUIREMENTS
  ###### FRONTEND - Html , Css , javascript , Bootstarp4
