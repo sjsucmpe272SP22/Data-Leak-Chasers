@@ -1,1 +1,17 @@
 
+body{
+	width: 100vw;
+	height: 100vh;
+}
+.main_background{
+	background-image: url("../background/main_background.jpg") !important;
+	background-size: cover;	
+}
+.login_background{
+	background-image: url("../background/login_background.jpg") !important;
+	background-size: cover;	
+}
+.dashboard_background{
+	background-image: url("../background/dashboard_background.jpg") !important;
+	background-size: cover;
+}
