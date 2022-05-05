@@ -32,6 +32,8 @@
  
  ### ERD
    ![image](https://user-images.githubusercontent.com/91631318/166823727-5c32f2ee-d7ca-4aa6-9876-e91062f679b9.png)
+   ![image](https://user-images.githubusercontent.com/91631318/166852229-6022d948-e289-46c0-9fdd-b4ffb6e8376f.png)
+
 
 
   ### DATABASE
