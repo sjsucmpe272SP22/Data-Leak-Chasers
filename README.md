@@ -30,7 +30,7 @@
  ###### DATABASE - MySql
  ###### DEPLOYMENT - Amazon Ec2
  
- ### SYSTEM DESIGN
+ ### ERD
    ![image](https://user-images.githubusercontent.com/91631318/166823727-5c32f2ee-d7ca-4aa6-9876-e91062f679b9.png)
 
 
